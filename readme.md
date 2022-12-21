@@ -1,11 +1,13 @@
-# Hi Everyone,
+# My article assignment
 
-## Here are my article, These are a part of my full stack javascript bootcamp at iNeuron.
+## From Full Stack JavaScript Web Developer Bootcamp 2.0
 
-## 1. On Web Server
+# Article 1
 
-[On Web Server](https://shonl.hashnode.dev/introduction-to0-web-development);
+[Web server](https://shonl.hashnode.dev/introduction-to-web-development)
 
-![Article01](./Add%20a%20heading.png)
+![image](./Web%20Server.png)
 
-## 2. HTML Elements
+[HTML Elements](https://shonl.hashnode.dev/html-elements)
+
+![image](<./HTML%20Elements%20(3).png>)
