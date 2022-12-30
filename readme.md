@@ -27,7 +27,8 @@
 [Link](https://shonl.hashnode.dev/css-flexbox)
 
 
-![CSS Flex Box](https://user-images.githubusercontent.com/119747143/210102739-7deb8f49-80f2-49a8-ae08-4c09708a9af6.png)
+![CSS Flex Box (1)](https://user-images.githubusercontent.com/119747143/210103434-c6e545e8-f697-43dc-8fa7-3c75b8de6a41.png)
+
 
 # Article 5
 
@@ -37,3 +38,5 @@
 
 # Article 6
 [Link](https://shonl.hashnode.dev/javascript-arrays-and-array-methods)
+
+![JavaScript (1)](https://user-images.githubusercontent.com/119747143/210103427-4e6b48e5-8888-4392-8f86-7fb7d361cda6.png)
